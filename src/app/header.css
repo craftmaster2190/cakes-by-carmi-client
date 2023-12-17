@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'LucySaidOk';
+    src: url('../../public/lucy-said-ok.italic.ttf') format('truetype');
+}
+
+Header {
+    padding: 8px 16px;
+}
+
+.HeaderTitle {
+    font-family: LucySaidOk, Arial, serif;
+    font-size: 3em;
+}
+
+.HeaderCart {
+    height: 32px;
+}
